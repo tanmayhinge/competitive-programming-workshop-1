@@ -1,17 +1,6 @@
 # Competitive Programming Workshop
 
-<a href="https://tanmayhinge.github.io/competitive-programming-workshop">https://tanmayhinge.github.io/competitive-programming-workshop</a>
-
----
-
-## Introduction
-
-I conducted this workshop titled "Getting Started with Competitive Programming" on 09 April 2022 while I was in my final year of computer science engineering at Pillai College of Engineering. It was conducted in association with [CSI-PCE]().
-
-
-DataStructures and Algorithms were covered by Rahul Maurya and Aditya Nair respectively.
-
-This document serves as a guide for anyone who wishes to get started with competitive programming as well as takeaway notes for the workshop participants.
+<a href="https://tanmayhinge.github.io/competitive-programming-workshop">https://tanmayhinge.github.io/competitive-programming-workshop-1</a>
 
 ---
 
